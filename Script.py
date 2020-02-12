@@ -62,25 +62,4 @@ def main():
 
     repeated()
 
-
 main()
-
-
-
-"""
-victims = ["Dan", "Mish", "Land", "Ran", "Mash", "Nal", "Bert", "Felice", "Dave"]
-    insults = ["dumb", "stupid", "moronic", "not right in the head", "not gonna succeed"]
-    # tweet = ""
-    previous = ""
-    while True:
-        tweet = ("" + str(victims[random.randint(0, len(victims) - 1)]) + " is " + str(insults[random.randint(0, len(insults) - 1)]))
-        if tweet == previous:
-            print(tweet + " and " + previous + " are the same, trying again:")
-            tweet = ("" + str(victims[random.randint(0, len(victims) - 1)]) + " is " + str(
-                insults[random.randint(0, len(insults) - 1)]))
-        print(tweet)
-        previous = tweet
-        # status = api.update_status(status=tweet)
-        # tweet = tweet[:-1]
-        time.sleep(60)
-"""
