@@ -22,4 +22,6 @@ Inspiration:
 
 ![](Inspiration/1_zMSR6lwGpWySHyxC5kagFA.jpg)
 
+![](Inspiration/Absolut-Cracking-02AB016-12k-04-Final-3000x3000-e1538337528413-695x554.png)
 
+![](Inspiration/
