@@ -1,5 +1,5 @@
 # TwitterBot
-Twitter bot that posts generative art daily
+Twitter bot that posts generative art daily... hopefully :)
 
 The bot - https://twitter.com/JustAno79923237
 
@@ -19,3 +19,5 @@ Trees - https://processing.org/examples/tree.html
 
 
 Inspiration:
+
+
