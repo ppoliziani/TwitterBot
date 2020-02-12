@@ -5,7 +5,7 @@ The bot - https://twitter.com/JustAno79923237
 
 ==========
 
-**Helpful Documentation:
+**Helpful Documentation:**
 
 Twitter API (Tweepy) - http://docs.tweepy.org/en/latest/
 
