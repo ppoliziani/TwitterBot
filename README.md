@@ -5,7 +5,7 @@ The bot - https://twitter.com/JustAno79923237
 
 ==========
 
-Helpful Documentation:
+**Helpful Documentation:
 
 Twitter API (Tweepy) - http://docs.tweepy.org/en/latest/
 
@@ -15,7 +15,7 @@ Turtle - https://docs.python.org/3.3/library/turtle.html?highlight=turtle
 
 ============
 
-Generative Art Links:
+**Generative Art Links:
 
 Fractals - https://blog.goodaudience.com/fractals-and-recursion-in-python-d11d87fcf9cd
 
@@ -23,7 +23,7 @@ Trees - https://processing.org/examples/tree.html
 
 ============
 
-Inspiration:
+**Inspiration:
 
 ![](Inspiration/1_zMSR6lwGpWySHyxC5kagFA.jpg)
 
