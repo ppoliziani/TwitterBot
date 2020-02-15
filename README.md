@@ -9,7 +9,8 @@ The bot - https://twitter.com/JustAno79923237
 
 Twitter API (Tweepy) - http://docs.tweepy.org/en/latest/
 
-Python Processing - https://py.processing.org/tutorials/
+Python Processing - https://processing.org/reference/
+                  - https://py.processing.org/tutorials/
 
 Turtle - https://docs.python.org/3.3/library/turtle.html?highlight=turtle
 
